@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Buehring_Week03Homework_Problem3/1.0.0": {
+        "runtime": {
+          "Buehring_Week03Homework_Problem3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buehring_Week03Homework_Problem3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
